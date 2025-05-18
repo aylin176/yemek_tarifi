@@ -1,0 +1,14 @@
+C:\Users\aylin\Desktop\veri dersleri klasörü\Yemek Tarifi Uygulaması\Yemek Tarifi Uygulaması\bin\Debug\Yemek Tarifi Uygulaması.exe.config
+C:\Users\aylin\Desktop\veri dersleri klasörü\Yemek Tarifi Uygulaması\Yemek Tarifi Uygulaması\bin\Debug\Yemek Tarifi Uygulaması.exe
+C:\Users\aylin\Desktop\veri dersleri klasörü\Yemek Tarifi Uygulaması\Yemek Tarifi Uygulaması\bin\Debug\Yemek Tarifi Uygulaması.pdb
+C:\Users\aylin\Desktop\veri dersleri klasörü\Yemek Tarifi Uygulaması\Yemek Tarifi Uygulaması\obj\Debug\Yemek Tarifi Uygulaması.csproj.AssemblyReference.cache
+C:\Users\aylin\Desktop\veri dersleri klasörü\Yemek Tarifi Uygulaması\Yemek Tarifi Uygulaması\obj\Debug\Yemek Tarifi Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\aylin\Desktop\veri dersleri klasörü\Yemek Tarifi Uygulaması\Yemek Tarifi Uygulaması\obj\Debug\Yemek Tarifi Uygulaması.exe
+C:\Users\aylin\Desktop\veri dersleri klasörü\Yemek Tarifi Uygulaması\Yemek Tarifi Uygulaması\obj\Debug\Yemek Tarifi Uygulaması.pdb
+C:\Users\aylin\Desktop\hıckırık\alin\Yemek Tarifi Uygulaması\Yemek Tarifi Uygulaması\bin\Debug\Yemek Tarifi Uygulaması.exe.config
+C:\Users\aylin\Desktop\hıckırık\alin\Yemek Tarifi Uygulaması\Yemek Tarifi Uygulaması\bin\Debug\Yemek Tarifi Uygulaması.exe
+C:\Users\aylin\Desktop\hıckırık\alin\Yemek Tarifi Uygulaması\Yemek Tarifi Uygulaması\bin\Debug\Yemek Tarifi Uygulaması.pdb
+C:\Users\aylin\Desktop\hıckırık\alin\Yemek Tarifi Uygulaması\Yemek Tarifi Uygulaması\obj\Debug\Yemek Tarifi Uygulaması.csproj.AssemblyReference.cache
+C:\Users\aylin\Desktop\hıckırık\alin\Yemek Tarifi Uygulaması\Yemek Tarifi Uygulaması\obj\Debug\Yemek Tarifi Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\aylin\Desktop\hıckırık\alin\Yemek Tarifi Uygulaması\Yemek Tarifi Uygulaması\obj\Debug\Yemek Tarifi Uygulaması.exe
+C:\Users\aylin\Desktop\hıckırık\alin\Yemek Tarifi Uygulaması\Yemek Tarifi Uygulaması\obj\Debug\Yemek Tarifi Uygulaması.pdb
